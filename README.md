@@ -2,9 +2,14 @@
 
 ## Tips para no cansarse y organizarse con los ejercicios.
 
-Aquí puedes incluir consejos y estrategias para manejar el ritmo de trabajo y mantener la organización durante la piscine.
+- Descansa lo suficiente: Trata de dormir al menos 7-8 horas al día para mantener la mente y el cuerpo frescos.
+- Planifica tu tiempo: Crea un horario para ayudarte a organizarte y asegurarte de tener suficiente tiempo para completar cada ejercicio.
+- Mantente hidratado: Bebe suficiente agua para mantenerte hidratado y concentrado.
+- Haz pausas regulares: Tómate pequeñas pausas de vez en cuando para estirar las piernas y descansar la vista.
+- Usa recursos adicionales: Utiliza libros, tutoriales en línea o pide ayuda a otros estudiantes cuando te quedes atascado.
 
-## Tips para organizarse
+
+## Recursos utiles
 
 Esta sección podría contener consejos específicos para mantenerse organizado durante la piscine, como por ejemplo utilizar un calendario o una herramienta de gestión de tareas.
 
@@ -14,7 +19,9 @@ Esta sección podría contener consejos específicos para mantenerse organizado 
 ### C Piscine C 01
 ### C Piscine C 02
 ### C Piscine C 03
+Todos ejercicios de funciones que tratan con strings
 ### C Piscine C 04
+La mayoría de los ejercicios son repetidos de antes
 ### C Piscine C 05
 ### C Piscine C 06
 ### C Piscine C 07
