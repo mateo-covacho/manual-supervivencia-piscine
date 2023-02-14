@@ -13,9 +13,19 @@
 
 Esta sección podría contener consejos específicos para mantenerse organizado durante la piscine, como por ejemplo utilizar un calendario o una herramienta de gestión de tareas.
 
+Toma notas sobre cada proyecto para luego saber de qué van y estudiarlos para los exámenes 
+
+Si quieres ser MUY eficiente, utiliza algo como toggl tracker para organizar tu tiempo, pero no es necesario
+
+Soluciones código:
+- Stack overflow
+- Manual (https://www.tutorialspoint.com/c_standard_library/c_function_strcmp.htm)
+- Chat gpt (Solo utilizar para explicar conceptos como pointers y recursividad aplicados a casos especiales si no no entenderás nada y en el examen se notara)
+
 ## Proyectos
 
 ### C Piscine C 00
+
 ### C Piscine C 01
 ### C Piscine C 02
 ### C Piscine C 03
