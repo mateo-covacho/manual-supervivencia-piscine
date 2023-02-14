@@ -20,13 +20,17 @@ Si quieres ser MUY eficiente, utiliza algo como toggl tracker para organizar tu 
 Soluciones código:
 - Stack overflow
 - Manual (https://www.tutorialspoint.com/c_standard_library/c_function_strcmp.htm)
-- Chat gpt (Solo utilizar para explicar conceptos como pointers y recursividad aplicados a casos especiales si no no entenderás nada y en el examen se notara)
+- Google
 
 ## Proyectos
 
 ### C Piscine C 00
-
+Bases de los caracteres y intigers es importante para este proyecto y futuros que ** entiendas estos conceptos **
+- ASCII
+- Posiciones en la memoria
+- Diferencia entre un char y un int
 ### C Piscine C 01
+Asegúrate de conseguir una buena base en pointers y conceptos básicos, si lo copias o no lo entiendes no sirve de nada en importante que consigas la base bien 
 ### C Piscine C 02
 ### C Piscine C 03
 Todos ejercicios de funciones que tratan con strings
