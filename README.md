@@ -13,7 +13,7 @@
 
 Esta sección podría contener consejos específicos para mantenerse organizado durante la piscine, como por ejemplo utilizar un calendario o una herramienta de gestión de tareas.
 
-Toma notas sobre cada proyecto para luego saber de qué van y estudiarlos para los exámenes 
+Toma notas (Notion funciona bien) sobre cada proyecto para luego saber de qué van y estudiarlos para los exámenes 
 
 Si quieres ser MUY eficiente, utiliza algo como toggl tracker para organizar tu tiempo, pero no es necesario
 
@@ -25,17 +25,18 @@ Soluciones código:
 ## Proyectos
 
 ### C Piscine C 00
-Bases de los caracteres y intigers es importante para este proyecto y futuros que ** entiendas estos conceptos **
+Bases de los caracteres y int es importante para este proyecto y futuros que ** entiendas estos conceptos **
 - ASCII
 - Posiciones en la memoria
 - Diferencia entre un char y un int
 ### C Piscine C 01
 Asegúrate de conseguir una buena base en pointers y conceptos básicos, si lo copias o no lo entiendes no sirve de nada en importante que consigas la base bien 
 ### C Piscine C 02
+Aquí te van a pedir conocimiento de de C00 (char y int) y C01 (pointers) asi que vas a necesitar tus conocimientos de estos ejercicios  
 ### C Piscine C 03
 Todos ejercicios de funciones que tratan con strings
 ### C Piscine C 04
-La mayoría de los ejercicios son repetidos de antes
+La gran mayoría de los ejercicios son repetidos de C01 y C02. Asi que no os asustéis !!
 ### C Piscine C 05
 ### C Piscine C 06
 ### C Piscine C 07
