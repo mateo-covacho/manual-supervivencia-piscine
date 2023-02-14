@@ -13,7 +13,7 @@
 
 Esta sección podría contener consejos específicos para mantenerse organizado durante la piscine, como por ejemplo utilizar un calendario o una herramienta de gestión de tareas.
 
-Toma notas (Notion funciona bien) sobre cada proyecto para luego saber de qué van y estudiarlos para los exámenes 
+Toma notas sobre cada proyecto para luego saber de qué van y estudiarlos para los exámenes 
 
 Si quieres ser MUY eficiente, utiliza algo como toggl tracker para organizar tu tiempo, pero no es necesario
 
@@ -34,7 +34,7 @@ Asegúrate de conseguir una buena base en pointers y conceptos básicos, si lo c
 ### C Piscine C 02
 Aquí te van a pedir conocimiento de de C00 (char y int) y C01 (pointers) asi que vas a necesitar tus conocimientos de estos ejercicios  
 ### C Piscine C 03
-Todos ejercicios de funciones que tratan con strings
+Todos ejercicios de funciones que tratan con strings (copiar, buscar, comparar)
 ### C Piscine C 04
 La gran mayoría de los ejercicios son repetidos de C01 y C02. Asi que no os asustéis !!
 ### C Piscine C 05
