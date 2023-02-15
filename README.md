@@ -33,8 +33,16 @@ Bases de los caracteres y int es importante para este proyecto y futuros que ** 
 Asegúrate de conseguir una buena base en pointers y conceptos básicos, si lo copias o no lo entiendes no sirve de nada en importante que consigas la base bien 
 ### C Piscine C 02
 Aquí te van a pedir conocimiento de de C00 (char y int) y C01 (pointers) asi que vas a necesitar tus conocimientos de estos ejercicios  
+
+ex00:
+https://youtu.be/ct5J8pm_33g
+
 ### C Piscine C 03
 Todos ejercicios de funciones que tratan con strings (copiar, buscar, comparar)
+
+ex02:
+https://youtu.be/rMOF82jCq4o
+
 ### C Piscine C 04
 La gran mayoría de los ejercicios son repetidos de C01 y C02. Asi que no os asustéis !!
 ### C Piscine C 05
