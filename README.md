@@ -1,5 +1,14 @@
 # Manual de la Piscine
 
+### Gracias a:
+
+- sdiaz-ca
+
+
+### Contribuidores
+<a href="https://github.com/mateo-covacho/manual-supervivencia-piscine/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mateo-covacho/manual-supervivencia-piscine" />
+</a>
 ## Tips para no cansarse y organizarse con los ejercicios.
 
 - Descansa lo suficiente: Trata de dormir al menos 7-8 horas al día para mantener la mente y el cuerpo frescos.
